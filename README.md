@@ -10,3 +10,9 @@ This repo contains my attempt to implement some well known quantum circuits, qua
 
 ## Quantum Teleportation 
 > ![plot](./Circuit%20Images/Quantum%20Teleportation.png)
+
+## Deutsch-Jorza Algorithm 
+### Constant Function
+> ![plot](./Circuit%20Images/deutsch-jorza-constant.png)
+### Balanced Function
+> ![plot](./Circuit%20Images/deutsch-jorza-balanced.png)
