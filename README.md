@@ -16,3 +16,6 @@ This repo contains my attempt to implement some well known quantum circuits, qua
 > ![plot](./Circuit%20Images/deutsch-jorza-constant.png)
 ### Balanced Function
 > ![plot](./Circuit%20Images/deutsch-jorza-balanced.png)
+ 
+## Quantum Adder 
+> ![plot](./Circuit%20Images/Quantum_Adder.png)
